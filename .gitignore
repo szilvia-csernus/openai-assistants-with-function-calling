@@ -1,0 +1,12 @@
+.env
+.DS_Store
+venv
+.ipynb_checkpoints
+__pycache__
+.cache.sqlite
+full_dataset.csv
+filtered_dataset.csv
+filter-data.py 
+sample.csv
+recipe-fine-tuning.ipynb
+
